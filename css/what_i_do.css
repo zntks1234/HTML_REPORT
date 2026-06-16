@@ -1,10 +1,10 @@
 /* what_i_do.css */
-/* float 속성 해제*/
+
 section{
   font-family:'Poppins', sans-serif;
   padding:5rem 0;
 }
-
+/* float 속성 해제*/
 section .do-me::after{
   content:"";
   display:block;
