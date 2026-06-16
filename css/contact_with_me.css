@@ -1,4 +1,8 @@
 /* contact_with_me.css */
+section{
+  font-family:'Poppins', sans-serif;
+  padding:5rem 0;
+}
 
 section.contact .contact-me::after{
   content:"";
